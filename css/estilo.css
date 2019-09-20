@@ -1,4 +1,13 @@
 html,body{
 	background: #b5d813;
-	font-weight: bold;
+	font-family: "arial"
 }
+li{
+	list-style: none;
+	float: left;
+	padding-left: 2cm;
+}
+ li:hover{
+ 	color: red;
+ 	cursor: pointer;
+ }
